@@ -14,7 +14,7 @@ You will configure small-scale networks. To do so, it is necessary to understand
 	-- Terminal: run `open index.html`
 	-- Filebrowser: double click the index.html
 'NOTE: in Hive the program needs to be in the Downloads directory on most machines I've tested'
-- If doing the program, write nick and start doing levels from 1 to 10.
+- If doing the program, write username and start doing levels from 1 to 10.
 - Export after each level: press “Get my config” and place the downloaded file in the repo root.
 - Submission: 10 exported config files (one per level) must be present at the root of the repository.
 - If doing evaluations, choose evaluation tab and do 3 random levels from levels 6 to 10 in 15 minutes.
